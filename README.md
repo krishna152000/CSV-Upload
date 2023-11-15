@@ -10,7 +10,7 @@ To install CSV_Upload, please follow these steps:
 
 Clone this repository using the following command:
 ```
-$ git clone (https://github.com/utkarshsingh341/CSVUpload.git)
+$ git clone  (https://github.com/krishna152000/CSV-Upload))
 ```
 Install the required dependencies using the following command:
 ```
@@ -22,7 +22,7 @@ $ npm start
 ```
 Open the application in your web browser by visiting the following URL:
 ```
-$ http://localhost:8000 
+$ http://localhost:3000 
 ```
 
 ## Features
