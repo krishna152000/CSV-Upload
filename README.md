@@ -2,7 +2,7 @@
 CSV_Upload is a user-friendly web application designed for uploading and parsing CSV files. Developed using Node.js and Express, it offers a straightforward interface to facilitate seamless management of CSV data.
 
 - Git Repository link:(https://github.com/krishna152000/CSV-Upload)
-- Video link: https://youtu.be/7wZOtAADtw0
+- Video link: (https://youtu.be/0gLXvQMwMN0?si=-rQgF9Ib--64TVoC)
 - Hosted URL: krishna-csvupload-15f120.netlify.app
 
 ## Installation
