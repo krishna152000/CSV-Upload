@@ -3,7 +3,7 @@ CSV_Upload is a user-friendly web application designed for uploading and parsing
 
 - Git Repository link:(https://github.com/krishna152000/CSV-Upload)
 - Video link: https://youtu.be/7wZOtAADtw0
-- Hosted URL: https://csv-upload-d92y.onrender.com/
+- Hosted URL: krishna-csvupload-15f120.netlify.app
 
 ## Installation
 To install CSV_Upload, please follow these steps:
